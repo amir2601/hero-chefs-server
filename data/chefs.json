@@ -1,0 +1,125 @@
+[
+    {
+        "_id": "01",
+        "name": "Haji Salam",
+        "recipe_no": "15",
+        "exp": "45",
+        "likes": 488,
+        "bio": "Haji Md Hossain is one of the oldest chef in Puran Dhaka, 45 year work experience. Haji Md Hossain dead in 1992",
+        "chef_img": "https://i.ibb.co/JnvWPph/haji-salam.jpg",
+        "recipe1": {
+            "name": "Mutton Biriyani",
+            "rating": "4.5",
+            "img": "https://i.ibb.co/JqYqDzk/Haji-Biriyani.jpg",
+            "ingredients": ["Bay leaves 2Shah.", "jeera 1 tbsp", "Black cardamom 2 pcs", "Kabab chini 9 pcs", "Cardamom 7 pcs", "Cinnamon 2 sticks", "Cloves 7"],
+            "cooking_method": "1. Heat a pan with 1 cup of mustard oil, then fry shah jeera and whole biryani masala once the oil is hot (saute them until fragrant). 2. Add sliced onion and fry them till translucent. 3. Add lamb , beef and Saute for 2-3 minute. 4. Once the meat starts changing color add green chili paste, garlic paste, ginger paste and cook for 10 min over medium high heat. 5. Add 1 tsp of nutmeg -mace- pepper powder and salt. 6. Add yogurt and cook for 15 mint (stir occasionally). 7. Remove the cover and add nut paste , prune and remainder nutmeg-mace powder. 8. Add 6 cups of hot water and 1.5 cups of warm milk and add soaked rice. 9. Add salt to taste. 10. Cover until the rice absorbs most of the liquid. 11. Add green chili and rose-kewra water and ghee. 12. Cover the pan with aluminium foil and place a tight-fitting lid . Place a tawa and cook for 20-30 min in dum (low heat)."
+        },
+        "recipe2": {
+            "name": "Borhani",
+            "rating": "5",
+            "img": "https://i.ibb.co/3BmHc77/borhani.jpg",
+            "ingredients": ["1/2 bunch mint (about 2 ounces; 60g).", "1/2 bunch cilantro (about 2 ounces; 60g).", "2 cups yogurt, not strained (16 ounces; 450g)", "2 teaspoons chaat masala", "1/4 teaspoon freshly ground black pepper", "3/4 teaspoon Kashmiri red chile powder", "2 teaspoons (10g) kosher salt; for table salt, use about half as much by volume or the same weight"],
+            "cooking_method": "1. In a blender, combine mint, cilantro, and 1/3 cup (78ml) water. Blend until smooth. 2. In a large mixing bowl, whisk together herb purée, buttermilk, yogurt, chaat masala, black pepper, chile powder, and salt. Adjust with more seasoning if desired. 3. Serve immediately over ice. The lassi will keep in the refrigerator for three days."
+        },
+        "recipe3": {
+            "name": "Jali Kabab",
+            "rating": "4",
+            "img": "https://i.ibb.co/m4bKMdG/jali-kabab.jpg",
+            "ingredients": ["Chicken 2 pounds (910 gm), minced.", "Onion 3 tbsp, chopped", "Coriander + Green chili paste 1 tbsp", "Green chili 2-3 pcs, chopped", "Mint 3 tbsp, chopped", "Coriander 3 tbsp, chopped", "Garlic paste 1 tbsp"],
+            "cooking_method": "1. In a large bowl, add all the kabab ingredients and mix well. 2. Add soaked and drained pieces of bread to the mix and marinate for 30 min 3. Using hands make round flat kabab, coat them with bread crumbs. 4. Dip kabab into the beaten egg, and then drop into the hot oil. Using fingers Sprinkle some egg over the kabab that makes jali. Cook them into medium flame. 5. Put in a towel"
+        }
+    },
+
+    {
+        "_id": "02",
+        "name": "Saif Hasan",
+        "recipe_no": "10",
+        "exp": "15",
+        "likes": 318,
+        "bio": "University of South Asia - Master of Food and Nutrition Science | Multi-cuisine Chef | Consultant chef | Culinary Instructor at Yes Tourism and Hotel Management Training Institute.",
+        "chef_img": "https://i.ibb.co/JrtNQPH/saif-hasan.jpg",
+        "recipe1": {
+            "name": "Chicken Biriyani",
+            "rating": "4.2",
+            "img": "https://i.ibb.co/8Nwvk7M/Chicken-Biryani.jpg",
+            "ingredients": ["Bay leaves 2Shah.", "jeera 1 tbsp", "Black cardamom 2 pcs", "Kabab chini 9 pcs", "Cardamom 7 pcs", "Cinnamon 2 sticks", "Cloves 7"],
+            "cooking_method": "1. Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside. 2. Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes. Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan. 3. Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy. 4. Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes. 5. Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices. 6. Heat stock and salt in a medium pot until hot; pour over rice and stir well. Add chicken mixture and potatoes; stir gently to combine. Bring to a boil. Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring. Spoon biryani onto a warm serving dish."
+        },
+        "recipe2": {
+            "name": "Khichuri",
+            "rating": "4",
+            "img": "https://i.ibb.co/K9WC2YR/khichuri.jpg",
+            "ingredients": ["1 cup Mung bean.", "2 cup Basmati rice.", "½ cup ghee or butter", "½ cup onion, sliced", "2 green chilies", "2 teaspoons garlic paste", "1 teaspoon ginger paste"],
+            "cooking_method": "1. Add ghee/butter in a pan on medium heat. Add onion and saute until it gets slightly golden. 2. Add everything from chilies to cinnamon. Fry for 2-3 minutes or until fragrant. 3. Add salt and boiled water. At the sight of bubbles, put a lid on the pan and cook for 20-22 minutes or until rice and bean is done. 4. Your bhuna khichuri is ready. Serve it with pickled onion."
+        },
+        "recipe3": {
+            "name": "Jorda Rice",
+            "rating": "3.9",
+            "img": "https://i.ibb.co/p3w1yLb/jorda.jpg",
+            "ingredients": ["Basmati/ Polao rice (two cups).", "Clarified butter", "Sugar", "Orange (peeled)/ pineapple (peeled).", "Hot spices.", "Cashew nut.", "Small sweetmeat."],
+            "cooking_method": "1. Now, boil the rice. Take a bowl and add half cup of food color. Place the bowl on the stove. When the water is moderately hot, add the rice on the bowl and boil for the next 10 - 15 minutes. 2. Check the rice if it is a bit hard. Make sure the rice is boiled but not that much soft which will ruin the Jorda. 3. Take another bowl, add the sugar (half cup), clarified butter, and orange slices. Also, add hot spices. Now, heat the bowl so that the sugar is melted. 4. Once the sugar melts on the bowl, add the pre-boiled rice. Mix the rice properly. Wait until the water level gets heated. 5. You need to be careful about the water. If the water level is more, the Jorda will not be perfect."
+        }
+    },
+
+    {
+        "_id": "03",
+        "name": "Md. Ali",
+        "recipe_no": "12",
+        "exp": "11",
+        "likes": 415,
+        "bio": "Mohammad AliSous Chef at Biman Bangladesh Flight Catering | Multi-cuisine Chef | Consultant chef | Culinary Instructor at Yes Tourism and Hotel Management Training Institute.",
+        "chef_img": "https://i.ibb.co/yFtgLmW/Md-ali.jpg",
+        "recipe1": {
+            "name": "Chicken Roast",
+            "rating": "4.8",
+            "img": "https://i.ibb.co/Jqm1pKZ/roast.jpg",
+            "ingredients": ["1 tbsp ginger.", "1 tsp garlic.", "1/2 cup plain yogurt.", "Chicken 1kg", "1 tbsp red chilli powder.", "1/4 tsp salt.", "1/2 tspn shah jeera"],
+            "cooking_method": "1. Marinate the chicken with 1 tbsp red chilli powder, 1/4 tsp salt. Let it rest for 15 mins. Fry the chicken on a heated pan, fry both sides well. 2. On a heated pan, add oil/ ghee, add shah jeera and onions. Saute until onions are translucent. 3. Add bay leaves, cardamom, black pepper, cinnamon sticks, cloves. Add ginger, garlic, red chilli powder and yogurt mix (1/2 cup plain yogurt + 1 tsp sugar). Saute all spices  at high heat for 10 mins, add milk in little quantities in between, continuously stirring. Add garam masala powder and cook for 5 mins. Add chicken pieces and dry plums onto the mix and let it cook at medium-high heat for 10 mins. Add remaining hot milk, reduce heat to low-medium heat and cook for 15 mins. 4. Lastly add, beresta, ground black pepper and kewra water, let it cook for another 10 minutes."
+        },
+        "recipe2": {
+            "name": "Morog Polao",
+            "rating": "4",
+            "img": "https://i.ibb.co/Wcn4g3V/morog-polao.jpg",
+            "ingredients": ["Chicken", "½ cup cooking oil.", "1 medium onion", "4 cups-soaked rice", "2 green chilies", "1 cup hot water", "½ tsp cardamom powder"],
+            "cooking_method": "1. Using a large pot, stir thinly sliced onions in cooking oil until golden brown. 2. Add bay leaves to the pot along with cardamoms, cloves, pepper, and cinnamons. 3. Stir in garlic paste, ginger paste, cashew paste, poppy seed paste. 4. Add green chilies, raisins, milk, and saffron water. 5. Place chicken pieces in the pot. 6. Add salt to taste and red chili."
+        },
+        "recipe3": {
+            "name": "Beef Bhuna",
+            "rating": "4.6",
+            "img": "https://i.ibb.co/51F5F0N/Beef-Bhuna.jpg",
+            "ingredients": ["Beef 1 kg.", "Onion Paste half cup.", "Ginger paste 2 tbl spoon.", "Turmeric powder a little more than half teaspoon.", "Hot spices.", "Cinnamon.", "2/3 bay leaves."],
+            "cooking_method": "1. Heat oil in the pot . Add the sliced onion and fry them until brown . Don't make it too dark , u may end up cooking dark colored beef bhuna . The color of the meat depends on this. So fry them until they are brown . In Bangla what we call “bereshta” or fried onion. 2. Now add the meat with marinade into the pot . Mix well with bereshta . Give 1/4 th cup of water and cover the lid . Cook the meat on medium-low flame for about 20/30 minutes or until the water is dried out . The meat will release water . So wait until the water dries out . Cook well, adding water little by little . Don't burn the meat on the bottom, so be careful . Check every 10 minutes . But you have to cook well adding water little by little , what we call in Bangla “Koshano”. The flavor of bhuna beef depends on this “koshano”. I do it for at least 1 hour . 3. After one hour of “Koshano” , add enough hot water to cover the meat . Cover the lid and let it cook on medium flame until the meat is tender and the gravy comes to desired consistency.Put it on very low flame for another 5 minutes ( which we call to keep on dom) , oil will separate. Turn off the stove and put the meat on the stove with lid on ."
+        }
+    },
+
+    {
+        "_id": "04",
+        "name": "Salah Uddin",
+        "recipe_no": "22",
+        "exp": "20",
+        "likes": 615,
+        "bio": "For the past 10 years, Chef Muhammad Salah Uddin has been at the helm of one of Seattle's most popular and loved Indian and Bangladeshi restaurants, Bengal Tiger, located in the Roosevelt neighborhood of Seattle. He immigrated to the United States from Bangladesh in 1986.",
+        "chef_img": "https://i.ibb.co/P52N2n4/salah-uddin.jpg",
+        "recipe1": {
+            "name": "Shorshe Ilish",
+            "rating": "4.8",
+            "img": "https://i.ibb.co/RgjQRpy/ilish.jpg",
+            "ingredients": "1. 4 pcs hilsa steaks. 2. 1.5 tbsp yellow mustard seeds. 3. 1 tbsp black mustard seeds. 4. 1.5 tsp turmeric powder 5. 1/2 cup mustard oil. 6. 1/2 tsp nigella seeds. 7. 4-5 green chillies.",
+            "cooking_method": "1. Marinade the hilsa pieces with salt and 1 tsp turmeric powder. 2. Soak both the mustard seeds in half a cup of water for 15 minutes. 3. Discard the water and take the mustard seeds in a grinder jar. Add a couple of green chillies, 1 tbsp of mustard oil and little water for grinding it into a smooth paste. It takes some time to make a good paste and add more mustard oil or water, if required to make the paste. 4. In a frying pan or a kadai, take 1.5 tbsps of mustard oil. When it heats, add a couple of green chillies and then nigella seeds. Let them splutter. Then add the rest of the turmeric powder and the mustard paste. While you are doing so, keep the heat to a medium to low."
+        },
+        "recipe2": {
+            "name": "Plain Pulao",
+            "rating": "4",
+            "img": "https://i.ibb.co/vHPSrpV/Polao.jpg",
+            "ingredients": ["Basmati Rice 2 cups", "Hot water 3 cups, 1 cup milk.", "Powder milk 2 tbsp", "Bay leaves 2, cardamom 3, cloves 3, Shah jeera 1/2 tsp", "Sliced onion 1/4 cup.", "Ghee 1 tbsp.", "Fried onion/ Beresta ."],
+            "cooking_method": "1. Using a large pot, stir thinly sliced onions in cooking oil until golden brown. 2. Add bay leaves to the pot along with cardamoms, cloves, pepper, and cinnamons. 3. Stir in garlic paste, ginger paste, cashew paste, poppy seed paste. 4. Add green chilies, raisins, milk, and saffron water. 5. Place chicken pieces in the pot. 6. Add salt to taste and red chili."
+        },
+        "recipe3": {
+            "name": "Beef Curry",
+            "rating": "4.9",
+            "img": "https://i.ibb.co/NLPH5jr/Beef-Curry.jpg",
+            "ingredients": ["Beef 1 kg.", "Onion Paste half cup.", "Ginger paste 2 tbl spoon.", "Turmeric powder a little more than half teaspoon.", "Hot spices.", "Cinnamon.", "2/3 bay leaves."],
+            "cooking_method": "1. Heat oil in the pot . Add the sliced onion and fry them until brown . Don't make it too dark , u may end up cooking dark colored beef bhuna . The color of the meat depends on this. So fry them until they are brown . In Bangla what we call “bereshta” or fried onion. 2. Now add the meat with marinade into the pot . Mix well with bereshta . Give 1/4 th cup of water and cover the lid . Cook the meat on medium-low flame for about 20/30 minutes or until the water is dried out . The meat will release water . So wait until the water dries out . Cook well, adding water little by little . Don't burn the meat on the bottom, so be careful . Check every 10 minutes . But you have to cook well adding water little by little , what we call in Bangla “Koshano”. The flavor of bhuna beef depends on this “koshano”. I do it for at least 1 hour . 3. After one hour of “Koshano” , add enough hot water to cover the meat . Cover the lid and let it cook on medium flame until the meat is tender and the gravy comes to desired consistency.Put it on very low flame for another 5 minutes ( which we call to keep on dom) , oil will separate. Turn off the stove and put the meat on the stove with lid on ."
+        }
+    }
+]
